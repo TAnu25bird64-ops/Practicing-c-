@@ -1,8 +1,8 @@
 # Bomb simulation
 
-"."   : Empty space (空きマス)
-"#"  : Wall (壁)
-"B"  : Bomb (爆弾)
+# "."   : Empty space (空きマス)
+# "#"  : Wall (壁)
+# "B"  : Bomb (爆弾)
 
 爆弾は，上下左右に爆風を飛ばす
 条件としては以下を満たす:
